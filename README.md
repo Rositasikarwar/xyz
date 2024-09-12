@@ -1,6 +1,3 @@
-Sure! Here’s the README code formatted for direct copy-paste:
-
-
 # Blog Website ✍️
 
 This is a simple yet powerful blog website built using Vite and React for the frontend, Appwrite as a backend-as-a-service, Tailwind CSS for styling, and deployed on Vercel. The application allows users to create, read, update, and delete blog posts with images, providing an intuitive platform for bloggers to share their thoughts. (A project from Chai☕ and React)
