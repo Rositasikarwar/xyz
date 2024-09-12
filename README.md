@@ -2,10 +2,6 @@
 
 This is a simple yet powerful blog website built using Vite and React for the frontend, Appwrite as a backend-as-a-service, Tailwind CSS for styling, and deployed on Vercel. The application allows users to create, read, update, and delete blog posts with images, providing an intuitive platform for bloggers to share their thoughts. (A project from Chai☕ and React)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/blog-thumbnail" width="700" alt="Blog Website Thumbnail">
-</div>
-
 ## Live Demo 🌐
 
 Check out the live demo of the blog website here: [Live Demo](https://my-blog-fok3.vercel.app)
@@ -21,10 +17,14 @@ Explore the features and functionality in real time!
 - **Responsive Design** 📱: A clean and responsive design that works across all devices.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/post-image1" width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/post-image2" width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/post-image3" width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/post-image4" width="400" alt="Blog Post Image 4">
+  <img src="![image](https://github.com/user-attachments/assets/82beb3f5-149b-4d44-bd84-00264d1c75f8)
+" width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
+  <img src="![image](https://github.com/user-attachments/assets/a66e5e51-82c7-4206-bd13-c65d3dd8218a)
+" width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
+  <img src="![image](https://github.com/user-attachments/assets/a2fae1da-9f50-4414-a963-c6d329f1f3d2)
+" width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
+  <img src="![image](https://github.com/user-attachments/assets/51bdb18d-687d-4351-b7a5-33af5ea973a3)
+" width="400" alt="Blog Post Image 4">
 </div>
 
 ## Tech Stack ⚙️
